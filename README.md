@@ -20,6 +20,3 @@ Requisitos
    ○ Quantidade de forks;
    ○ Nome do autor;
 OBS.: A resposta das requisições deve ser paginada.
-
-
-
