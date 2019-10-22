@@ -1,7 +1,7 @@
 # zee
-==============================================
+
 Zee - desafio
-==============================================
+
 Requisitos
 ● Autenticação via JWT;
 ● Listagem de todos os repositórios públicos;
